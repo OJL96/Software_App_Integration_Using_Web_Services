@@ -18,6 +18,6 @@ Aim of this project is to create a Shares Brokering system that consist of a sha
 > Java Script used to make webpage interactive and retireve logos of each company, again using APIs. CSS used to add style.
 
 
-### Missing features
+### Missing Features
 
 > Currency conversion reads froma .java file. These values are fixed / constants. Using an API is a must!
