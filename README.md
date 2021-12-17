@@ -20,4 +20,4 @@ Aim of this project is to create a Shares Brokering system that consist of a sha
 
 ### Missing Features
 
-> Currency conversion reads froma .java file. These values are fixed / constants. Using an API is a must!
+> Currency conversion reads froma .java file. These values are fixed / constants. Using an API would be better!
